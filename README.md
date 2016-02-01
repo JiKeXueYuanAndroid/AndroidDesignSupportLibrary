@@ -12,5 +12,7 @@ TextInputLayout(让EditText更加人性化)
 
 里面必须放一个ET
 
+![](http://i4.tietuku.com/59b118df9fd2a563.png)
+
 
 
