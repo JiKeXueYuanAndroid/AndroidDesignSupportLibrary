@@ -1,4 +1,4 @@
-FloatingActionButton
+###FloatingActionButton
           
 app:backgroundTint="#232323": //设置背景色   
     
@@ -12,4 +12,5 @@ TextInputLayout(让EditText更加人性化)
 
 里面必须放一个ET
 
-![](mipmap-hdpi/c1.png)
+
+
