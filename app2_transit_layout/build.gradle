@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.example.administrator.helloas"
+        applicationId "com.jike.app2"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
@@ -24,5 +24,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.android.support:design:23.1.1'
-    compile 'com.jakewharton:butterknife:5.1.1'
+    compile files('libs/butterknife-7.0.1.jar')
 }
